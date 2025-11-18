@@ -13,7 +13,6 @@ Works with any webcam
 
 Automatically closes when Q is pressed or window close (X) button is clicked
 
-
   Requirements
 
 Install dependencies using:
